@@ -1,5 +1,6 @@
 # amiibo Mii Extractor
-A 3DS homebrew tool to extract Miis from amiibo. I only tested this on New 3DS, I don't know if it works on Old 3DS.
+A 3DS homebrew tool to extract Miis from amiibo. I only tested this on New 3DS, I don't know if it works on Old 3DS.  
+This was built off of the libctr NFC example [here](https://github.com/devkitPro/3ds-examples/tree/master/nfc).
 
 ## Installation
 Simply download the 3dsx file from releases and place it in your `3ds` folder. You can then launch it from The Homebrew Launcher.
